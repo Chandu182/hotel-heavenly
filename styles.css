@@ -138,12 +138,12 @@ li a,li .dropdown-menu a,.dropdown-toggle{
 
     .hero-subtext {
         font-size: 18px;
-        top: 45%;
+        top: 55%;
         left: 20%;
     }
     .btn-warning {
         position: absolute !important;
-        top: 55%;
+        top: 65%;
         left: 30%;
     }
 .navbar {
